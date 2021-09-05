@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "861265948698",
+    "firebase_url": "https://mystarwarapp-3845f.firebaseio.com",
+    "project_id": "mystarwarapp-3845f",
+    "storage_bucket": "mystarwarapp-3845f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861265948698:android:18ea2227a45700304921a3",
+        "android_client_info": {
+          "package_name": "br.com.willliam.miranda.flutter.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861265948698-91233b2h5jkh0rkoisntotvu36o7mt5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_QoLLD-x_zfGpN2_u-D6F7_aD36nxDwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861265948698-91233b2h5jkh0rkoisntotvu36o7mt5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
